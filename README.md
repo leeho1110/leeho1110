@@ -11,7 +11,7 @@
 - 말과 행동의 일치를 통해 신뢰할 수 있는 동료가 되고자 합니다.
 - 비즈니스, 팀에 가치있는 일을 찾고 실행하려 노력합니다.
 
-### :information_desk_person: 이런 것들이 궁금하시다면
+### :information_desk_person: 궁금한게 더 많으시다면
 
 - :page_facing_up: [여기](https://lovetoknow.notion.site/fcbbc3ce2a6a45a88d986cbc05ac0f64)서 조금 더 확인해보세요. 여기에선 아래와 같은 내용을 확인하실 수 있어요.
   - 사용할 줄 아는 **기술**들이 나와 있어요.
