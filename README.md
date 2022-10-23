@@ -15,5 +15,5 @@
 
 - :page_facing_up: [여기](https://lovetoknow.notion.site/fcbbc3ce2a6a45a88d986cbc05ac0f64)서 더 확인해보세요. 아래와 같은 내용을 확인하실 수 있어요.
   - 사용할 줄 아는 **기술**들이 나와 있어요.
-  - 읽었던 **글과 느낀 바**를 적어놨어요.
   - 살아가며 했던 **고민**의 목록을 남겨놨어요.
+- [여기](https://github.com/leeho1110/the-dev-book-archive)엔 학습을 위해 읽었던 서적과 얻었던 지식을 남겨놨어요.
