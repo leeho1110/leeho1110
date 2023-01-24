@@ -1,9 +1,9 @@
 ### Introduce 👋
 
-안녕하세요 **꾸준하게 배우는 소프트웨어 엔지니어, 이호 [Profile Link!](https://lovetoknow.notion.site/lovetoknow/fcbbc3ce2a6a45a88d986cbc05ac0f64)** 입니다. 
+안녕하세요 **꾸준하게 배우는 소프트웨어 엔지니어, 이호 [Profile Link](https://lovetoknow.notion.site/lovetoknow/fcbbc3ce2a6a45a88d986cbc05ac0f64)** 입니다. 
 
 -  **좋은 동료, 소프트웨어 엔지니어**가 되기 위해 아래 3가지를 꾸준히 의식하고 정진합니다.
-    - 유연함과 넓은 시야를 위해 **꾸준하게 기본기(Under the hood)** 를 학습합니다.  
+    - 유연함과 넓은 시야(문제 해결력)를 위해 **꾸준하게 기본기(Under the hood)를 학습**합니다.  
     - **비즈니스, 팀에 기여할 수 있는 일**을 찾아내고 실행합니다.
     - 모두에게 보탬이 되도록 **공유 문화를 실천**합니다.
 
