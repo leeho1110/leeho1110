@@ -10,7 +10,7 @@
 
 ---
 
-### :information_desk_person: 궁금한게 더 많으시다면
+### :information_desk_person: 어떻게 정진했는지 궁금하시다면
 
 - 📚 [여기](https://github.com/leeho1110/the-dev-book-archive)에는 **학습에 활용한 서적과 요약**을 남겨놨어요.
 - 📄 [여기](https://lovetoknow.notion.site/d5442f4cb963462b8b0ab9cd79d9c84e)에는 **개발, 학습법과 성장, 커리어, 커뮤니케이션 분야**의 컨텐츠와 느낀 점을 남겨놨어요. 
