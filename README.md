@@ -1,4 +1,4 @@
-### 👋 소개
+### 🌱 소개
 
 안녕하세요 **꾸준하게 배우는 소프트웨어 엔지니어, 이호 [Profile Link](https://lovetoknow.notion.site/lovetoknow/fcbbc3ce2a6a45a88d986cbc05ac0f64)** 입니다.
 
